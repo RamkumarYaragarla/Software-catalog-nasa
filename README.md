@@ -46,5 +46,10 @@ Create a project meta-record using the template from file required_fields_projec
 * Add your instantiated meta-record to the array in the catalog.json file via a pull request
 * Once the merge is complete, your project will be published on [code.nasa.gov](http://code.nasa.gov/)
 
+### DELETING AN ENTRY
+
+- Deleting an entry must be a request submitted to the Open Innovation Admin team at hq-open-innovation@mail.nasa.gov or deleting a test entry must be done on the **robot** branch in the catalog.json file and then through a PR merge into the **master** branch.
+- Do **NOT** delete the **robot** branch as it is **REQUIRED** as part of this project.
+
 ## Thanks
 Special thanks goes out to [Chris Mattmann (NASA JPL)](https://github.com/chrismattmann), Sean Kelly (NASA JPL) and [Eric Whyne (DARPA)](https://github.com/ericwhyne) for their inspiration for this effort.
