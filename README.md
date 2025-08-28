@@ -13,7 +13,7 @@ This GitHub repository is maintained by the [NASA OCIO Open Innovation Team](htt
 
 ## Add/Edit your project
 ### OPTION 1
-If you are behind the NASA firewall, we recommend you use the online form located [here](https://developer.nasa.gov/pages/OpenInnovation/code-submission-app/)
+If you are behind the NASA firewall, we recommend you use the online form located at https://code-submission-app.code.nasa.gov/
 
 We recommend option 1.
 
