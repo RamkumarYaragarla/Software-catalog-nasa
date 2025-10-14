@@ -74366,6 +74366,105 @@
             "service_version": "5.0.12",
             "date_AI_tags": "2025_July_25_at_03_05PM",
             "local-id": "587d4086-3f59-4ff6-a94f-1fea79e76944"
+        },
+        {
+            "repositoryURL": "github.com/nasa/harmony-maskfill",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 800,
+            "languages": [
+                "Python",
+                "Markdown",
+                "JSON"
+            ],
+            "name": "Harmony MaskFill",
+            "contributors": [
+                {
+                    "name": "Owen Littlejohns",
+                    "email": "owen.m.littlejohns@nasa.gov",
+                    "github": "owenlittlejohns"
+                },
+                {
+                    "name": "David Auty",
+                    "email": "david.p.auty@nasa.gov",
+                    "github": "autydp"
+                },
+                {
+                    "name": "Slav Korolev",
+                    "email": "N/A",
+                    "github": "vskorole"
+                },
+                {
+                    "name": "Joseph Schultz",
+                    "email": "joseph.schultz@nasa.gov",
+                    "github": "joeyschultz"
+                },
+                {
+                    "name": "Josie Lyon",
+                    "email": "josie.lyon@nasa.gov",
+                    "github": "lyonthefrog"
+                },
+                {
+                    "name": "Sudha Murthy",
+                    "email": "sudha.murthy@nasa.gov",
+                    "github": "sudha-murthy"
+                },
+                {
+                    "name": "Vu Tran",
+                    "email": "vu.tran-1@nasa.gov",
+                    "github": "vutrannasa"
+                }
+            ],
+            "tags": [
+                "nasa-eosdis",
+                "earth-observation",
+                "spatial-subset",
+                "GeoJSON",
+                "eosdis-harmony"
+            ],
+            "description": "The Harmony MaskFill project is a backend service for the Harmony workflow manager, developed as part of the NASA Earth Observing System Data and Information System (EOSDIS). Harmony MaskFill offers the ability to take a GeoJSON-defined shape and mask pixels inside a source file region, but outside of that GeoJSON shape. Those pixels outside of the GeoJSON shape will be set to the fill value for the array in question.",
+            "contact": {
+                "email": "owen.m.littlejohns@nasa.gov",
+                "name": "Owen Littlejohns",
+                "phone": "",
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2025-10-08",
+                "metadataLastUpdated": "2025-10-14",
+                "created": "2019-09-26"
+            },
+            "organization": "GSFC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "Apache-2.0",
+                        "URL": "https://opensource.org/licenses/Apache-2.0"
+                    },
+                    {
+                        "name": "NASA Open Source",
+                        "URL": "https://opensource.org/licenses/NASA-1.3"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:sound generator",
+                "nlp:x ray source",
+                "nlp:pixel",
+                "nlp:array",
+                "nlp:file maintenance (computers)",
+                "nlp:light source",
+                "nlp:antenna array",
+                "nlp:mask",
+                "nlp:radiation source",
+                "nlp:shape"
+            ],
+            "service_version": "5.0.12",
+            "date_AI_tags": "2025_October_14_at_07_00PM",
+            "local-id": "5a4a7ae2-daf2-42a6-b52e-dd5519704f70"
         }
     ]
 }
