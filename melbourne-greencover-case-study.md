@@ -1,4 +1,4 @@
-#Case Study: Green Cover Analysis of Melbourne using Sentinel-2, EPIC, and GIBS
+# Case Study: Green Cover Analysis of Melbourne using Sentinel-2, EPIC, and GIBS
 
 Monitoring urban green cover is critical for understanding city ecology, climate resilience, and environmental health. In this case study, I Hug Trees analyzed the green cover of Melbourne using a combination of Sentinel-2 imagery, EPIC daily Earth observations, and GIBS weather overlays.
 
@@ -10,6 +10,8 @@ The results were presented in an interactive, web-based map with NDVI time-lapse
 
 This case study illustrates how open satellite data and cloud-based analysis platforms like MPC can empower local research initiatives. By combining Sentinel-2 imagery, EPIC monitoring, and GIBS environmental overlays, small teams can produce credible insights for sustainable urban planning and environmental awareness.
 
-For detailed results, datasets, and interactive visualizations, visit:
-[ihugtrees.org website](https://ihugtrees.org)
+For detailed results, datasets, and interactive visualizations, visit:  
+
+[ihugtrees.org website](https://ihugtrees.org)  
+
 [Melbourne Dataset Research page](https://ihugtrees.org/data-analytics/sentinel-ndvi/Melbourne-region/latest.html)
